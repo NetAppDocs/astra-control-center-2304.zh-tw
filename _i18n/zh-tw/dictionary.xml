@@ -2681,7 +2681,6 @@ RKE 2 （ v1.24.x ）搭配 Rancher 2.7</block>
   <block id="7c90d436f62a080a98e02874957865e0" category="inline-link-macro">這些程序</block>
   <block id="41bdd90cead20f2dddf0647e2f48fc13" category="list-text">*以Cloud Volumes ONTAP 支援功能的方式在公有雲上安裝*：使用 <block ref="cdbba4f6294205e74dc04d0ee99d1d1f" category="inline-link-macro-rx"></block> 若要在Amazon Web Services（AWS）、Google Cloud Platform（GCP）或Microsoft Azure中安裝Astra Control Center、並提供Cloud Volumes ONTAP 一套支援整合式儲存後端的功能。</block>
   <block id="201e09e85ad81db8a19ef9f20c05d1a5" category="inline-link">這段影片</block>
-  <block id="259f3be9b6c8eefb44e844c2b70333dc" category="paragraph">如需Astra Control Center安裝程序的示範、請參閱<block ref="cbbdec23221803dc148346abe5a297c0" category="inline-link-rx"></block>。</block>
   <block id="44e141a783b8346b1ee5c52bcf894d19" category="list-text"><block ref="689b20f2e0a9cb0a12bc48475b3f81ee" category="inline-link-macro-rx"></block>。</block>
   <block id="e13d4a668fc56237f39878bf668e8d7b" category="inline-link-macro">瞭解Pod安全性原則限制</block>
   <block id="80ba5d209a6c02eb82d0a6e75e4355ff" category="list-text">如果您已設定或想要在環境中設定Pod安全性原則、請熟悉Pod安全性原則、以及這些原則如何影響Astra Control Center安裝。請參閱 <block ref="2a481a17dd103cf67632448be5755ab1" category="inline-link-macro-rx"></block>。</block>
@@ -2959,4 +2958,5 @@ CRD是整個叢集的物件、安裝這些物件可能會影響叢集的其他�
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
   <block id="caaa72507433239b8d4d80991bbbbf7a" category="sidebar">Astra Control Center 23.04 文件</block>
+  <block id="285c7fb54a928cf8e9ca78a83740ce60" category="paragraph">如需 Astra Control Center 安裝程序的示範，請參閱<block ref="d97427b76746d487a682c110ed41c817" category="inline-link-rx"></block>。</block>
 </blocks>
